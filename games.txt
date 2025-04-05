@@ -1,0 +1,34 @@
+Title: The Legend of Zelda: Breath of the Wild
+Publisher: Nintendo
+Genre: Action-Adventure
+HoursPlayed: 60.5
+Price: 59.99
+Year: 2017
+
+Title: Red Dead Redemption 2
+Publisher: Rockstar Games
+Genre: Action-Adventure
+HoursPlayed: 120.0
+Price: 49.99
+Year: 2018
+
+Title: Minecraft
+Publisher: Mojang Studios
+Genre: Sandbox
+HoursPlayed: 250.0
+Price: 26.95
+Year: 2011
+
+Title: The Witcher 3: Wild Hunt
+Publisher: CD Projekt Red
+Genre: RPG
+HoursPlayed: 80.0
+Price: 39.99
+Year: 2015
+
+Title: Animal Crossing: New Horizons
+Publisher: Nintendo
+Genre: Simulation
+HoursPlayed: 150.0
+Price: 59.99
+Year: 2020
