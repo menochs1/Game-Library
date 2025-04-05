@@ -1,4 +1,4 @@
-#include "library.cpp"
+#include "library.h"
 #include <iostream>
 
 using namespace std;
