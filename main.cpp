@@ -34,6 +34,7 @@ int main() {
     while (true) {
         print_menu();
         cin >> choice;
+        cin.ignore();
 
         switch (choice) {
             case 1: // Add Game
