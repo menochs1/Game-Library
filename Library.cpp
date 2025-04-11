@@ -123,7 +123,7 @@ void Library::find_game(string title) {
     }                                                                                                
 }
 
-**                                                                                                  
+/**                                                                                                  
  * @brief Finds all games in the library that match the given genre.                                 
  *                                                                                                   
  * @param genre Genre to search for                                                                  
